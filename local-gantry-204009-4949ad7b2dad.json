@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "local-gantry-204009",
-  "private_key_id": "4949ad7b2dad97be700d1335d605299d42a97dfb",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDilJk+tKpjnSgt\novgKkwO87R03mlfFY2M3o8F1Jsz8xCfEm4NjrNTSPjmJihF+zz4KRjlHPqyXZxPX\nROJoDdg0Lx5PKZrp3AmAkLkWc+rhOb/GYyqzr6oI5qzHj3ewX2nZRCEGNSzeMFMw\nYfyUPwg6vrzmTN1QuAHKoFRwI3lfExflfFYWWpPjFWnCd+NZ8kHL+PmbJABlW1LC\nusLhcmsqJtpW/eylgI+PoncZvW8PU301DOGOPWY6QjopU0tXYcopGjf9URzRe+Bo\n6m+8erhy+AzHbOvNHEvY6LP+zAmN5NG3XB11oztsoOrovLOnxp+WyKF+2rYHefZ7\n5tOrj9n1AgMBAAECggEABogcm9Fm+QyqgBhK2LkwuiVGupfdMGBDV7MFjGxELAQ2\nlkUaZkjw8KehDn03sGVmhzLLi2l73bh3urSuZywA/84c7FDJebThZD6ny0Unr/rz\nc5Nfw4LMnsmRkQYqf9/cRAph/lURmE0h1Mr6Vkaz5MejV+s+1Qkc6huxm3L2WH59\nQROriuv7I2uw35SlZAQUZQWzOO6oO+yshaczuAdcrRY55V+eypspkrTFgZsIAqbJ\nKSxHcp4rNw5Ook7bVXN4Ai0HMkGloZnw/nWYZC5FrAYnAdiwCNDKp5sfU9zfntOY\ngrYpsQyrtp1viM/26zB6LX+RyEyzsGKLdMaGKQCqsQKBgQD+9vnZuieetVHSSHw5\njXkKQnwZ7QIZKVIPm/Avf/FfrOSI8V53a8lDWfe/1I/T/ZGnh8aCK1DQghO1CL6q\n6wXuWl/gmHj/susMYfdVRXoOOXaY7R1ZVrS7DOLzlnFg0WP/1afWWwqByGD0F0Dj\nvn0MVyyCmH7oaiXGlTQ/J6bf8QKBgQDjgB5VHpNcPhTanZV/XTqpCpNvkSaoP4mx\naDWKCKL+n5ar1QEq3wCutGI6A440OzcJaTFJE4DZK3VUKThdCUxzWT3MDsltRRtM\nxjNi2qStknQila+PAbnJUNiao1ayqzJ8rRJL4q+oStTLY8KDgBVBRayL3MYbcxZ8\nntl6dgteRQKBgQCvtqouYVrYyAFhuM7UIynd5j/85hhiGtYRJ9j6A2ToGRFPR3lh\nOAl2v1Q9AlM1ODXfjXVDVHLXoC3Qv/wXcu2dfO9CrBIHttjCqel4/O7HStbvQcrO\nPTFFD/aBBZeRr/0I3chTtF6jXuNilXwE+MzZamKkhlBAAJeUKlPdiog5IQKBgBmx\n3LssauReNqjCZ6Is+3UgNqrBMCaMlpas+G8QrqgnijL6KdmXulIBGZ8Hy8Xmcj7j\n3KcuRr1AhU3uIemQJUxZ5froKKPozD6NnDwsCbF4+xj04xE51qwAL5a3oBEp+NfQ\nDGL5xXEyknouWEfV7ZCjt+tMEiwDgaStpE6KipopAoGBAN3yxpX1k4BUA2HAGq2S\nqg7QZPj4s0MLchiTXGXCOm+xFsNlwdGEGorqBMzNdGLJJlLBdFeYea9HwBGvgfJX\nf/n66S2wSYbabqp16R+cjJCS0Vhzcb2U9x8c+FL9UFv/d0cXoDghKSHVXfq+WnKT\nE5llOoeK6vNH+Cr70G9QqnUG\n-----END PRIVATE KEY-----\n",
-  "client_email": "ecommerce@local-gantry-204009.iam.gserviceaccount.com",
-  "client_id": "111069914655797846844",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://accounts.google.com/o/oauth2/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecommerce%40local-gantry-204009.iam.gserviceaccount.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
